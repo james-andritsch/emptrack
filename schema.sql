@@ -1,3 +1,4 @@
+DROP database IF EXISTS emp_db;
 CREATE database emp_db;
 USE emp_db;
 

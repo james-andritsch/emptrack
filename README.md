@@ -31,4 +31,4 @@ ___
 
 ## Screenshot
 ___
-![JSQuiz](assets/images/emptrack_screenshot.png)
+![EmpTrack](assets/images/emptrack_screenshot.png)
